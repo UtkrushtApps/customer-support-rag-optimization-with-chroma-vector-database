@@ -1,0 +1,5 @@
+{
+  "host": "chromadb",
+  "port": 8000,
+  "collection": "support_chunks"
+}
