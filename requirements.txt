@@ -1,0 +1,7 @@
+sentence-transformers
+chroma
+numpy
+scikit-learn
+tiktoken
+pandas
+python-dotenv
