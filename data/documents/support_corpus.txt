@@ -1,0 +1,1 @@
+[ADD FULL SUPPORT DOCUMENT CORPUS HERE - pre-fetched from the provided source_url in the final task instance; this is a template field. The raw document must exceed 15,000 chars to ensure chunking and retrieval complexity. Example placeholders about troubleshooting, login, billing, cancellation, priorities, categories, and support dates.]
